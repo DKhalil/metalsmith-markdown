@@ -1,8 +1,8 @@
 {
-  "name": "metalsmith-markdown",
-  "description": "A Metalsmith plugin to convert markdown files.",
-  "repository": "git://github.com/segmentio/metalsmith-markdown.git",
-  "version": "0.2.1",
+  "name": "metalsmith-markdown-sections",
+  "description": "A Metalsmith plugin to convert markdown files. Added ability to divide markdown file into section",
+  "repository": "git://github.com/dkhalil/metalsmith-markdown.git",
+  "version": "0.3.0",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
