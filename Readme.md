@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ npm install metalsmith-markdown
+    $ npm install metalsmith-markdown-sections
 
 ## CLI Usage
 
@@ -28,7 +28,7 @@
   Pass `options` to the markdown plugin and pass it to Metalsmith with the `use` method:
 
 ```js
-var markdown = require('metalsmith-markdown');
+var markdown = require('metalsmith-markdown-sections');
 
 metalsmith.use(markdown({
   smartypants: true,
